@@ -62,7 +62,7 @@ Ideal for developers who want to:
 ## 🌎 Connect with Me  
 
 🌐 Website: https://farigab.com  
-💼 LinkedIn: https://www.linkedin.com/in/gabriel-b-f/?locale=en_US 
+💼 LinkedIn: https://linkedin.com/in/seuperfil  
 📧 Email: contato@farigab.com  
 
 ---
