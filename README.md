@@ -44,13 +44,18 @@ Sou desenvolvedor com experiência em backend utilizando Java e construção de 
 
 ## 🏆 Projetos em Destaque  
 
-### 🔹 Sistema Web com Java & Angular  
-Aplicação full stack com autenticação, API REST e frontend responsivo.  
-**Tecnologias:** Spring Boot, Angular, PostgreSQL  
+## 🔹 BragDev
 
-### 🔹 API REST com Spring Boot  
-API estruturada com boas práticas, validações e integração com banco de dados.  
-**Tecnologias:** Java, Spring Boot, JPA  
+O **BragDev** é uma ferramenta de automação focada na visibilidade do progresso técnico.
+
+Utiliza IA para processar logs de commits e metadados de Pull Requests, transformando dados brutos de controle de versão em relatórios técnicos estruturados e de fácil leitura.
+
+Ideal para desenvolvedores que desejam:
+- 📊 Acompanhar evolução técnica
+- 📝 Gerar documentação automatizada
+- 🚀 Demonstrar impacto em projetos
+
+🔗 Acesse: https://bragdoc.farigab.com/
 
 ---
 
