@@ -1,39 +1,39 @@
-# 👋 Olá, eu sou Gabriel Farias  
+# 👋 Hi, I'm Gabriel Farias  
 
-💻 Desenvolvedor Java & Angular  
-🚀 Focado em aplicações escaláveis, APIs robustas e interfaces modernas  
+💻 Java & Angular Developer  
+🚀 Focused on scalable applications, robust APIs, and modern interfaces  
 
-Sou desenvolvedor com experiência em backend utilizando Java e construção de aplicações frontend com Angular. Gosto de criar sistemas bem estruturados, performáticos e com código limpo.
-
----
-
-## 🚀 Sobre mim  
-
-- 🔭 Atualmente focado em projetos com **Java + Angular**
-- 🌱 Estudando **Arquitetura de Software e Microsserviços**
-- 💬 Me pergunte sobre **Spring Boot, APIs REST, Angular, Banco de Dados**
-- 🌐 Portfólio: https://farigab.com
-- 📫 Contato: contato@farigab.com
+I'm a developer with backend experience using Java and building frontend applications with Angular. I enjoy creating well-structured, high-performance systems with clean code.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🚀 About Me  
+
+- 🔭 Currently focused on **Java + Angular** projects  
+- 🌱 Studying **Software Architecture and Microservices**  
+- 💬 Ask me about **Spring Boot, REST APIs, Angular, Databases**  
+- 🌐 Portfolio: https://farigab.com  
+- 📫 Contact: contato@farigab.com  
+
+---
+
+## 🛠️ Technologies & Tools  
 
 ### 💻 Backend  
-`Java` • `Spring Boot` • `JPA / Hibernate` • `APIs REST`
+`Java` • `Spring Boot` • `JPA / Hibernate` • `REST APIs`
 
 ### 🎨 Frontend  
 `Angular` • `TypeScript` • `HTML` • `CSS`
 
-### 🛢 Banco de Dados  
+### 🛢 Databases  
 `PostgreSQL` • `MySQL`
 
-### ⚙️ Ferramentas  
+### ⚙️ Tools  
 `Docker` • `Git` • `Maven` • `Linux`
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 GitHub Stats  
 
 <p align="center">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farigab&show_icons=true&theme=tokyonight" />
@@ -42,29 +42,29 @@ Sou desenvolvedor com experiência em backend utilizando Java e construção de 
 
 ---
 
-## 🏆 Projetos em Destaque  
+## 🏆 Featured Projects  
 
-## 🔹 BragDev
+## 🔹 BragDev  
 
-O **BragDev** é uma ferramenta de automação focada na visibilidade do progresso técnico.
+**BragDev** is an automation tool focused on increasing technical progress visibility.
 
-Utiliza IA para processar logs de commits e metadados de Pull Requests, transformando dados brutos de controle de versão em relatórios técnicos estruturados e de fácil leitura.
+It uses AI to process commit logs and Pull Request metadata, transforming raw version control data into structured and easy-to-read technical reports.
 
-Ideal para desenvolvedores que desejam:
-- 📊 Acompanhar evolução técnica
-- 📝 Gerar documentação automatizada
-- 🚀 Demonstrar impacto em projetos
+Ideal for developers who want to:
+- 📊 Track technical growth  
+- 📝 Generate automated documentation  
+- 🚀 Showcase project impact  
 
-🔗 Acesse: https://bragdoc.farigab.com/
+🔗 Access: https://bragdoc.farigab.com/
 
 ---
 
-## 🌎 Conecte-se comigo  
+## 🌎 Connect with Me  
 
-🌐 Site: https://farigab.com  
-💼 LinkedIn: https://linkedin.com/in/seuperfil  
+🌐 Website: https://farigab.com  
+💼 LinkedIn: [https://linkedin.com/in/seuperfil  ](https://www.linkedin.com/in/gabriel-b-f/?locale=en_US)
 📧 Email: contato@farigab.com  
 
 ---
 
-⭐ Sempre aberto a novas oportunidades e colaborações.
+⭐ Always open to new opportunities and collaborations.
