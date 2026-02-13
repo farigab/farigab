@@ -36,8 +36,8 @@ Sou desenvolvedor com experiência em backend utilizando Java e construção de 
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farigab&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farigab&layout=compact&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farigab&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farigab&layout=compact&theme=tokyonight"/> -->
 </p>
 
 ---
