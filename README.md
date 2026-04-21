@@ -21,4 +21,4 @@ Studying software architecture and microservices
 ---
 
 **Contact**  
-[farigab.com](https://farigab.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-b-f/?locale=en_US) · contato@farigab.com
+[farigab.com](https://farigab.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-b-f/?locale=en_US) · f-gab@outlook.com
